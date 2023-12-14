@@ -1,6 +1,6 @@
 # Hi there, I'm Tom! 👋
 
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Captain-Tomplex&show_icons=true&theme=midnight-purple"/>
+<img align ="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=Captain-Tomplex&show_icons=true&theme=midnight-purple"/>
 
 <img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Tomplex&layout=compact"/>
 <br/><br/>

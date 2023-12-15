@@ -1,8 +1,8 @@
 # Hi there, I'm Tom! 👋
 
-<img align ="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=Captain-Tomplex&show_icons=true&theme=midnight-purple"/>
+<img align ="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=tanicREAL&show_icons=true&theme=midnight-purple"/>
 
-<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Captain-Tomplex&layout=compact"/>  
+<img align ="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanicREAL&layout=compact"/>  
 
 <br>
   &nbsp;  

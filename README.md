@@ -1,4 +1,4 @@
-# Hi there, I'm Tom! 👋
+# but you can call me Tom :smile:
 
 <img align ="left" width="43%" src="https://github-readme-stats.vercel.app/api?username=tanicREAL&show_icons=true&theme=midnight-purple"/>
 
